@@ -4,6 +4,9 @@ PlayerPRO is a SoundTracker player and creator for the Mac. It should be able to
 
 The PlayerPROCore Framework is the main playback mechanism of PlayerPRO (Previously known as MADDriver) that allows developers to play SoundTracker audio in their applications.
 
+![PlayerPRO screenshot](https://github.com/findsp/PlayerPRO/blob/master/images/1.jpeg?raw=true)
+
+
 ## PlayerPRO 6
 
 PlayerPRO 6 is a rewrite of the PlayerPRO to help make it work better with different operating systems, as well as update the program to use Cocoa.  Please note that this is not a stable branch and _**will**_ break backwards compatibility. The framework itself runs on 10.7 and later. It is not Garbage-Collection capable.
